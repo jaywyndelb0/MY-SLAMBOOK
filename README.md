@@ -73,9 +73,6 @@ Declared in `AndroidManifest.xml`:
 - The app focuses on local storage and does not use a remote backend.
 - Some legacy storage permissions may be present for compatibility; on API 33+ `READ_MEDIA_IMAGES` is used.
 
-This repository contains my SLAMBOOK project files.
 
-📦 **Download the full project (ZIP file):**  
-👉 [Click here to download from Google Drive](https://drive.google.com/file/d/1lt7WKQzxPBecH7y-v-ipOuqWeTVFlG8m/view?usp=drive_link)
 
 
